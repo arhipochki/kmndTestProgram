@@ -1,4 +1,4 @@
-![Image][screenshots/Demo.png]
+![Image][./screenshots/Demo.png]
 
 # 3 в ряд
 Тестовое задание для команды KMND на C++ + Raylib.
